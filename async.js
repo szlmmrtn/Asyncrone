@@ -65,4 +65,5 @@ let osszerak = async () => {
 
 };
 
+
 osszerak();
